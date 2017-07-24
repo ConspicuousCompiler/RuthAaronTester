@@ -1,0 +1,30 @@
+{
+  "name": "RuthAarronTester",
+  "version": "0.0.1",
+  "description": "Ruth-Aaron Pairs Tester",
+  "dependencies": {
+    "vue": "^2.3.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.1.2",
+    "babel-loader": "^6.1.0",
+    "babel-plugin-transform-runtime": "^6.1.2",
+    "babel-preset-es2015": "^6.1.2",
+    "babel-preset-stage-0": "^6.1.2",
+    "babel-runtime": "^5.8.0",
+    "css-loader": "^0.28.4",
+    "style-loader": "^0.18.2",
+    "vue-hot-reload-api": "^2.1.0",
+    "vue-html-loader": "^1.2.4",
+    "vue-loader": "^12.2.1",
+    "vue-template-compiler": "^2.3.4",
+    "webpack": "^2.4",
+    "webpack-dev-server": "^2.4.4"
+  },
+  "author": "Brian Orlick",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ConspicuousCompiler/RuthAaronTester.git"
+  }
+}
